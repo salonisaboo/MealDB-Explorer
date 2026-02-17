@@ -45,10 +45,3 @@ The backend uses **node-cache** to:
 - Axios  
 - node-cache (in-memory caching)
 
-### External API
-- TheMealDB (https://www.themealdb.com/api/json/v1/1)
-
----
-
-## Folder Structure
-
